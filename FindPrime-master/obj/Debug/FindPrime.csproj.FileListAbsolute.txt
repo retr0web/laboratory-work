@@ -1,0 +1,6 @@
+/Users/retr0web/RiderProjects/FindPrime/bin/Debug/FindPrime.exe
+/Users/retr0web/RiderProjects/FindPrime/bin/Debug/FindPrime.pdb
+/Users/retr0web/RiderProjects/FindPrime/obj/Debug/FindPrime.csprojAssemblyReference.cache
+/Users/retr0web/RiderProjects/FindPrime/obj/Debug/FindPrime.csproj.CoreCompileInputs.cache
+/Users/retr0web/RiderProjects/FindPrime/obj/Debug/FindPrime.exe
+/Users/retr0web/RiderProjects/FindPrime/obj/Debug/FindPrime.pdb
