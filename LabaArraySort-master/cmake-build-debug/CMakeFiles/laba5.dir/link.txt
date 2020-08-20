@@ -1,0 +1,3 @@
+"H:\Software\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\laba5.dir/objects.a
+H:\Software\mingw32\bin\ar.exe cr CMakeFiles\laba5.dir/objects.a @CMakeFiles\laba5.dir\objects1.rsp
+H:\Software\mingw32\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\laba5.dir/objects.a -Wl,--no-whole-archive  -o laba5.exe -Wl,--out-implib,liblaba5.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\laba5.dir\linklibs.rsp
