@@ -1,0 +1,6 @@
+D:\Prog\C#\laba_CSharp\laba4_CSharp\laba4_CSharp\bin\Debug\laba4_CSharp.exe
+D:\Prog\C#\laba_CSharp\laba4_CSharp\laba4_CSharp\bin\Debug\laba4_CSharp.pdb
+D:\Prog\C#\laba_CSharp\laba4_CSharp\laba4_CSharp\obj\Debug\laba4_CSharp.csprojAssemblyReference.cache
+D:\Prog\C#\laba_CSharp\laba4_CSharp\laba4_CSharp\obj\Debug\laba4_CSharp.csproj.CoreCompileInputs.cache
+D:\Prog\C#\laba_CSharp\laba4_CSharp\laba4_CSharp\obj\Debug\laba4_CSharp.exe
+D:\Prog\C#\laba_CSharp\laba4_CSharp\laba4_CSharp\obj\Debug\laba4_CSharp.pdb

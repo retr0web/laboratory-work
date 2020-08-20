@@ -1,0 +1,11 @@
+D:\Development\C#\ReadAndWrite\bin\Debug\netcoreapp3.1\ReadAndWrite.exe
+D:\Development\C#\ReadAndWrite\bin\Debug\netcoreapp3.1\ReadAndWrite.deps.json
+D:\Development\C#\ReadAndWrite\bin\Debug\netcoreapp3.1\ReadAndWrite.runtimeconfig.json
+D:\Development\C#\ReadAndWrite\bin\Debug\netcoreapp3.1\ReadAndWrite.runtimeconfig.dev.json
+D:\Development\C#\ReadAndWrite\bin\Debug\netcoreapp3.1\ReadAndWrite.dll
+D:\Development\C#\ReadAndWrite\bin\Debug\netcoreapp3.1\ReadAndWrite.pdb
+D:\Development\C#\ReadAndWrite\obj\Debug\netcoreapp3.1\ReadAndWrite.csprojAssemblyReference.cache
+D:\Development\C#\ReadAndWrite\obj\Debug\netcoreapp3.1\ReadAndWrite.AssemblyInfoInputs.cache
+D:\Development\C#\ReadAndWrite\obj\Debug\netcoreapp3.1\ReadAndWrite.AssemblyInfo.cs
+D:\Development\C#\ReadAndWrite\obj\Debug\netcoreapp3.1\ReadAndWrite.dll
+D:\Development\C#\ReadAndWrite\obj\Debug\netcoreapp3.1\ReadAndWrite.pdb

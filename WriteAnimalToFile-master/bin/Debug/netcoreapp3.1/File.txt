@@ -1,0 +1,6 @@
+Type of animal: Bird
+Name: Grey tit
+Length: 40
+Weight: 40
+Radius of wings: 30
+Height of flight: 3000

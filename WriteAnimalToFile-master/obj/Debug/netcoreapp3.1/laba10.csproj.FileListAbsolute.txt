@@ -1,0 +1,11 @@
+D:\Development\C#\laba10\bin\Debug\netcoreapp3.1\laba10.exe
+D:\Development\C#\laba10\bin\Debug\netcoreapp3.1\laba10.deps.json
+D:\Development\C#\laba10\bin\Debug\netcoreapp3.1\laba10.runtimeconfig.json
+D:\Development\C#\laba10\bin\Debug\netcoreapp3.1\laba10.runtimeconfig.dev.json
+D:\Development\C#\laba10\bin\Debug\netcoreapp3.1\laba10.dll
+D:\Development\C#\laba10\bin\Debug\netcoreapp3.1\laba10.pdb
+D:\Development\C#\laba10\obj\Debug\netcoreapp3.1\laba10.csprojAssemblyReference.cache
+D:\Development\C#\laba10\obj\Debug\netcoreapp3.1\laba10.AssemblyInfoInputs.cache
+D:\Development\C#\laba10\obj\Debug\netcoreapp3.1\laba10.AssemblyInfo.cs
+D:\Development\C#\laba10\obj\Debug\netcoreapp3.1\laba10.dll
+D:\Development\C#\laba10\obj\Debug\netcoreapp3.1\laba10.pdb

@@ -1,0 +1,6 @@
+Type of animal: Bird
+Name: Blue tit
+Length: 10
+Weight: 10
+Radius of wings: 40
+Height of flight: 1000
