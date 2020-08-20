@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Prog/C++/laba6/emoji.h
+map
+-
+
+D:/Prog/C++/laba6/main.cpp
+iostream
+-
+cmath
+-
+string
+-
+emoji.h
+D:/Prog/C++/laba6/emoji.h
+
