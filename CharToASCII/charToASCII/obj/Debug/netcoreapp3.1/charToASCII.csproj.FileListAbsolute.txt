@@ -1,0 +1,13 @@
+D:\Development\C#\laba\laba9.31I\CharToASCII\charToASCII\bin\Debug\netcoreapp3.1\charToASCII.exe
+D:\Development\C#\laba\laba9.31I\CharToASCII\charToASCII\bin\Debug\netcoreapp3.1\charToASCII.deps.json
+D:\Development\C#\laba\laba9.31I\CharToASCII\charToASCII\bin\Debug\netcoreapp3.1\charToASCII.runtimeconfig.json
+D:\Development\C#\laba\laba9.31I\CharToASCII\charToASCII\bin\Debug\netcoreapp3.1\charToASCII.runtimeconfig.dev.json
+D:\Development\C#\laba\laba9.31I\CharToASCII\charToASCII\bin\Debug\netcoreapp3.1\charToASCII.dll
+D:\Development\C#\laba\laba9.31I\CharToASCII\charToASCII\bin\Debug\netcoreapp3.1\charToASCII.pdb
+D:\Development\C#\laba\laba9.31I\CharToASCII\charToASCII\obj\Debug\netcoreapp3.1\charToASCII.csprojAssemblyReference.cache
+D:\Development\C#\laba\laba9.31I\CharToASCII\charToASCII\obj\Debug\netcoreapp3.1\charToASCII.AssemblyInfoInputs.cache
+D:\Development\C#\laba\laba9.31I\CharToASCII\charToASCII\obj\Debug\netcoreapp3.1\charToASCII.AssemblyInfo.cs
+D:\Development\C#\laba\laba9.31I\CharToASCII\charToASCII\obj\Debug\netcoreapp3.1\charToASCII.csproj.CoreCompileInputs.cache
+D:\Development\C#\laba\laba9.31I\CharToASCII\charToASCII\obj\Debug\netcoreapp3.1\charToASCII.dll
+D:\Development\C#\laba\laba9.31I\CharToASCII\charToASCII\obj\Debug\netcoreapp3.1\charToASCII.pdb
+D:\Development\C#\laba\laba9.31I\CharToASCII\charToASCII\obj\Debug\netcoreapp3.1\charToASCII.genruntimeconfig.cache
